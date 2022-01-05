@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "easton/extrainv/mixin/HandledScreenMixin": {
+      "handleHotbarKeyPressed": "Lnet/minecraft/class_465;method_2384(II)Z",
+      "onMouseClick(I)V": "Lnet/minecraft/class_465;method_30107(I)V"
+    },
+    "easton/extrainv/mixin/InventoryScreenMixin": {
+      "init": "Lnet/minecraft/class_490;method_25426()V",
+      "drawBackground": "Lnet/minecraft/class_490;method_2389(Lnet/minecraft/class_4587;FII)V",
+      "Lnet/minecraft/client/gui/widget/TexturedButtonWidget;<init>(IIIIIIILnet/minecraft/util/Identifier;Lnet/minecraft/client/gui/widget/ButtonWidget$PressAction;)V": "Lnet/minecraft/class_344;<init>(IIIIIIILnet/minecraft/class_2960;Lnet/minecraft/class_4185$class_4241;)V",
+      "isClickOutsideBounds": "Lnet/minecraft/class_490;method_2381(DDIII)Z"
+    },
+    "easton/extrainv/mixin/InvScreensMixins": {
+      "drawBackground": "method_2389(Lnet/minecraft/class_4587;FII)V"
+    },
+    "easton/extrainv/mixin/InventoryMixin": {
+      "Lnet/minecraft/util/collection/DefaultedList;ofSize(ILjava/lang/Object;)Lnet/minecraft/util/collection/DefaultedList;": "Lnet/minecraft/class_2371;method_10213(ILjava/lang/Object;)Lnet/minecraft/class_2371;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "easton/extrainv/mixin/HandledScreenMixin": {
+        "handleHotbarKeyPressed": "Lnet/minecraft/class_465;method_2384(II)Z",
+        "onMouseClick(I)V": "Lnet/minecraft/class_465;method_30107(I)V"
+      },
+      "easton/extrainv/mixin/InventoryScreenMixin": {
+        "init": "Lnet/minecraft/class_490;method_25426()V",
+        "drawBackground": "Lnet/minecraft/class_490;method_2389(Lnet/minecraft/class_4587;FII)V",
+        "Lnet/minecraft/client/gui/widget/TexturedButtonWidget;<init>(IIIIIIILnet/minecraft/util/Identifier;Lnet/minecraft/client/gui/widget/ButtonWidget$PressAction;)V": "Lnet/minecraft/class_344;<init>(IIIIIIILnet/minecraft/class_2960;Lnet/minecraft/class_4185$class_4241;)V",
+        "isClickOutsideBounds": "Lnet/minecraft/class_490;method_2381(DDIII)Z"
+      },
+      "easton/extrainv/mixin/InvScreensMixins": {
+        "drawBackground": "method_2389(Lnet/minecraft/class_4587;FII)V"
+      },
+      "easton/extrainv/mixin/InventoryMixin": {
+        "Lnet/minecraft/util/collection/DefaultedList;ofSize(ILjava/lang/Object;)Lnet/minecraft/util/collection/DefaultedList;": "Lnet/minecraft/class_2371;method_10213(ILjava/lang/Object;)Lnet/minecraft/class_2371;"
+      }
+    }
+  }
+}

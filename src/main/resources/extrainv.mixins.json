@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "easton.extrainv.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "InventoryMixin",
+    "PlayerHandlerMixin"
+  ],
+  "client": [
+    "InventoryScreenMixin",
+    "HandledScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

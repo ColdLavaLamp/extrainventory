@@ -1,0 +1,5 @@
+v1	named	intermediary
+FIELD	easton/extrainv/mixin/HandledScreenMixin	I	backgroundHeight	field_2779
+FIELD	easton/extrainv/mixin/InventoryScreenMixin	Lnet/minecraft/client/gui/screen/recipebook/RecipeBookWidget;	recipeBook	field_2929
+FIELD	easton/extrainv/mixin/InventoryScreenMixin	Z	narrow	field_2931
+FIELD	easton/extrainv/mixin/InventoryScreenMixin	Z	mouseDown	field_2930

@@ -1,0 +1,12 @@
+easton/extrainv/mixin/InventoryMixin.java
+ easton.extrainv.mixin.InventoryMixin
+easton/extrainv/mixin/HandledScreenMixin.java
+ easton.extrainv.mixin.HandledScreenMixin
+easton/extrainv/mixin/InvHandlersMixins.java
+ easton.extrainv.mixin.InvHandlersMixins
+easton/extrainv/mixin/InvScreensMixins.java
+ easton.extrainv.mixin.InvScreensMixins
+easton/extrainv/mixin/InventoryScreenMixin.java
+ easton.extrainv.mixin.InventoryScreenMixin
+easton/extrainv/mixin/PlayerHandlerMixin.java
+ easton.extrainv.mixin.PlayerHandlerMixin
